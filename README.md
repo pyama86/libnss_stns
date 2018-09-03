@@ -1,6 +1,8 @@
 # libnss_stns
 [![Build Status](https://travis-ci.org/STNS/libnss_stns.svg?branch=master)](https://travis-ci.org/STNS/libnss_stns)
 
+**Moved to https://github.com/STNS/STNS**
+
 libnss_stns is [STNS](https://github.com/pyama86/STNS) Client Module.
 * /etc/passwd,/etc/groups,/etc/shadow resolver.
 * ssh authorized keys wrapper
